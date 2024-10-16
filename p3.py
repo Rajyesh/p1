@@ -1,4 +1,3 @@
-3)write pgm to reverse on array without using another array
 num_list = [3, 2, 8, 7, 5, 7, 8]
 output = []
 
